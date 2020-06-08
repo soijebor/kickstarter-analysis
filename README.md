@@ -1,2 +1,7 @@
 # *An Analysis of kickstarter Campaigns*
-### Performing analysis on kickstarter data to uncover trends
+## Performing analysis on kickstarter data to uncover trends
+### Challenge
+![Outcomes Based on Goals Chart](https://github.com/soijebor/kickstarter-analysis/blob/master/Analysis%20Project/Outcomes%20Based%20on%20Goals%20Chart.png)
+The chart shows the trend of the outcomes based on the goal of the plays Kickstarter campaign. Even though 35000 to 45000 cannot be explained in this way, the plays campaign was most successful when the goal was less than 1000. You can see from the trend of the rate of successful plays dropped dramatically as the goal increased although when the goal was between 35000 to 45000 it cannot be explained this way because it increased during that period. The trend shows an increase in the failure rate as the goal increases except when the goal was also between 35000 to 45000.
+![Outcomes Based on Launch Date](https://github.com/soijebor/kickstarter-analysis/blob/master/Analysis%20Project/Outcomes%20Based%20on%20Launch%20Date.png)
+This chart shows the trend of the outcomes based on the launch date using the theater campaign.  You can see that the theater campaign was most successful in May which I believe is due to the fact that it was the beginning of summer and school was out which meant people had more time to spend at the theater. Although after that it declined drastically all the way till December with the exception of October when Fall started. Also, the failure rate declined after May through December with the exception of October where it rose a little and then declined again. The trend also shows that the most canceled theater campaign was in January.
