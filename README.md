@@ -1,5 +1,5 @@
 # *An Analysis of kickstarter Campaigns*
-## Performing analysis on kickstarter data to uncover trends
+## Performing analysis on kickstarter data to uncover trends based on goals and launch dates
 ### *Module 1 Challenge*
 ![Outcomes Based on Goals Chart](https://github.com/soijebor/kickstarter-analysis/blob/master/Analysis%20Project/Outcomes%20Based%20on%20Goals%20Chart.png)
 The chart above shows the trends of the outcomes based on the goal of the plays Kickstarter campaign. Even though 35000 to 45000 cannot be explained in this way, the plays campaign was most successful when the goal was less than 1000. You can see from the trend of the rate of successful plays dropped dramatically as the goal increased although when the goal was between 35000 to 45000 it cannot be explained this way because it increased during that period. The trend shows an increase in the failure rate as the goal increases except when the goal was also between 35000 to 45000.
